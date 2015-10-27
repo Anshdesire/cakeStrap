@@ -1,3 +1,4 @@
+=======
 #################
 ## Eclipse
 #################
@@ -161,3 +162,4 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+>>>>>>> parent of 2daa942... Updated .gitignore to allow testing on live app.
